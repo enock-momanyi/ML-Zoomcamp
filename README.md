@@ -1,1 +1,1 @@
-# ML-Zoomcamp Jupyter notebook for solutions
+ Jupyter notebook for solutions
